@@ -22,8 +22,8 @@ jobs:
       
       - name: Set Creds
         run: |
-          git config user.name "curder"
-          git config user.email "q.curder@gmail.com"
+          git config user.name "${GITHUB_ACTOR}"
+          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
       
       - name: Deploy
         run: yarn deploy
