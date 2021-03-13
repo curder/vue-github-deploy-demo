@@ -1,5 +1,7 @@
 ## 使用GitHub Actions服务部署Vue.js项目到GitHub Pages
 
+![GitHub Pages Deploy](https://github.com/curder/vue-github-deploy-demo/workflows/Deploy/badge.svg)
+
 - 创建一个vue配置文件
 - 安装依赖
 - 创建部署脚本
