@@ -90,7 +90,7 @@ GitHub Actions 是一种简单易行的方法，可以在您定义的触发器�
 
 
 ```yaml
-name: Deploy to Github Pages
+name: Deploy
 
 on: [push, pull_request]
 
