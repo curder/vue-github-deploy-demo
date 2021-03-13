@@ -128,6 +128,9 @@ jobs:
 
 将 `gh-pages-deploy.yml` 文件添加到 `.github/workflows` 文件夹中。
 
+
+**[更多 github workflow](https://docs.github.com/cn/actions/reference/workflow-syntax-for-github-actions)**
+
 ## 相关阅读
 
 - [Vue.js deployment for github pages](https://cli.vuejs.org/guide/deployment.html#github-pages)
