@@ -3,7 +3,7 @@
 - 创建一个vue配置文件
 - 安装依赖
 - 创建部署脚本
-- 更新package.json，添加部署命令
+- 更新 `package.json` ，添加部署命令
 - 创建 GitHub Actions 工作流程
 
 ### 创建Vue配置文件
