@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="master branch"/>
+  <HelloWorld msg="stage branch"/>
 </template>
 
 <script>
