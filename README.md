@@ -127,3 +127,8 @@ jobs:
 将 GitHub 用户名和电子邮件地址设置为第25、26行。如果愿意，可以将第 21 行和第 29 行中的命令替换为相应的 npm 命令。
 
 将 `gh-pages-deploy.yml` 文件添加到 `.github/workflows` 文件夹中。
+
+## 相关阅读
+
+- [Vue.js deployment for github pages](https://cli.vuejs.org/guide/deployment.html#github-pages)
+- [Auto-Deploy Vue.js to GitHub Pages using Actions](https://medium.com/swlh/auto-deploy-vue-js-to-github-pages-using-actions-723a2206e4d3)
