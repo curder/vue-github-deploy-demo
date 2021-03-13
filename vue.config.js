@@ -1,5 +1,5 @@
 module.exports = {
     publicPath: process.env.NODE_ENV === 'production' 
-        ? '/vuepress-github-deploy-demo'
+        ? '/vue-github-deploy-demo'
         : '/'
 };
